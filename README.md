@@ -10,7 +10,7 @@
     <a href="mailto:pedrogpaulino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   </p>
 
-  <h4>Muito atraído pelo desenvolvimento mobile, estudo e desenvolvo projetos pessoais em android nativo.<h4><p>
+  <h4>Estudo e desenvolvo projetos pessoais em android nativo.<h4><p>
    <a href="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
     <a href="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
   </p>
